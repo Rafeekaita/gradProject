@@ -6,4 +6,4 @@
 
 # Link To Dataset From Kaggle
 
-[Dataset](https://www.kaggle.com/datasets/karthika95/pedestrian-detection)
+- [Dataset](https://www.kaggle.com/datasets/karthika95/pedestrian-detection)
